@@ -1,5 +1,108 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E1
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E01%20-%20Cubos.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E2
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E02%20-%20Monedas.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E3
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E03%20-%20Corredor.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E4
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E04%20-%20Puerta.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E5
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E05%20-%20Agua.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E6
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E06%20-%20Vidrio.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E7
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E07%20-%20C%c3%a1psula.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season01-poster.jpg" group-title="3%",T1 E8
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S1E08%20-%20Bot%c3%b3n.mp4
+
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E1
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E01%20-%20Espejo.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E2
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E02%20-%20Tostador.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E3
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E03%20-%20Est%c3%a1tica.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E4
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E04%20-%20Servilleta.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E5
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E05%20-%20L%c3%a1mpara.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E6
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E06%20-%20Botellas.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E7
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E07%20-%20Niebla.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E8
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E08%20-%20Sapos.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E9
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E09%20-%20Collar.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season02-poster.jpg" group-title="3%",T2 E10
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S2E10%20-%20Sangre.mp4
+
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E1
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E01%20-%20Arena.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E2
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E02%20-%20Bistur%c3%ad.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E3
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E03%20-%20Medicina.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E4
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E04%20-%20Pato.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E5
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E05%20-%20Palanca.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E6
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E06%20-%20Trampilla.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E7
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E07%20-%20Jardr%c3%b3n.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season03-poster.jpg" group-title="3%",T3 E8
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S3E08%20-%20Onda.mp4
+
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E1
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E01%20-%20Cap%c3%adtulo%2001%20Luna.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E2
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E02%20-%20Cap%c3%adtulo%2002%20Shock.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E3
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E03%20-%20Cap%c3%adtulo%2003%20Fuego.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E4
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E04%20-%20Cap%c3%adtulo%2004%20Submarino-320-10.bif
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E5
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E05%20-%20Cap%c3%adtulo%2005%20Pintura.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E6
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E06%20-%20Cap%c3%adtulo%2006%20Botones.mp4
+
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/3%20porciento/season04-poster.jpg" group-title="3%",T4 E7
+http://45.179.164.59:8181/Series/3%20porciento/3%20Porciento%20-%20S4E07%20-%20Cap%c3%adtulo%2007%20Sol.mp4
+
+
 #EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/9-1-1/season01-poster.jpg" group-title="9-1-1",T1 E1
 http://45.179.164.59:8181/Series/9-1-1/9-1-1.S01E01.720p.Hackstore.Net.mkv
 
